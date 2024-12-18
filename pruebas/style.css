@@ -1,0 +1,21 @@
+.carousel {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .slide {
+    width: 100%;
+    float: left;
+    position: relative;
+  }
+  
+  .slide img {
+    width: 100%;
+    display: block;
+  }
+  
+  .paused {
+    animation-play-state: paused !important;
+  }
+  
